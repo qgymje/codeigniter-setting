@@ -1,5 +1,4 @@
 <?php
-//just for github git test
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
